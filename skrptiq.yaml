@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "8b02bc10-ac4e-4a24-b0e4-52de1ce23811"
+name: "draft-reply-quick"
+display_name: "Draft Reply"
+description: "Quick action — drafts a reply to any message or email"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-draft-reply-quick"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
