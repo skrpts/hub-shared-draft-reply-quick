@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "8b02bc10-ac4e-4a24-b0e4-52de1ce23811"
+id: "9501b60c-149c-4cbd-88a5-bc050e6d7d7c"
 name: "draft-reply-quick"
 display_name: "Draft Reply"
 description: "Quick action — drafts a reply to any message or email"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
